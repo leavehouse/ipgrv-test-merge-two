@@ -7,6 +7,9 @@ Here are two lists, one containing some letters, and another containing some num
  - a
  - b
  - c
+ - d
+ - e
+ - f
 
 # numbers
 
